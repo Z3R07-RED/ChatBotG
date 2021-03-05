@@ -44,6 +44,6 @@ python3 ChatBotG.py
 ```
 
 * Antes de los comandos anteriores, debe crear un archivo `txt` en el directorio de `chats` y escribir en él lo que desea que escriba el bot.
-* Luego ingrese el archivo que creo.
+* Cuando ejecute el script, ingrese el nombre del archivo que creo.
 * Luego, vaya lo más rápido posible a un chat y coloque el cursor sobre el chat.
 
