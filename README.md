@@ -25,7 +25,7 @@ DESCARGAR:
 ======
 
 ```
-git clone
+git clone https://github.com/Z3R07-RED/ChatBotG.git
 ```
 
 USAR:
